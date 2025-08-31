@@ -11,7 +11,9 @@ It outlines the basic structure and layout without focusing on detailed design e
 - **Saves Time and Resources:** Detects design flaws before development, reducing costly revisions.  
 - **Guides the Design Process:** Provides a reference for the development and design teams to maintain consistency.  
 
-This repository will document the essential concepts, key elements, types, tools, and benefits of wireframing, with a focus on practical application using **Figma**.
+This repository documents the essential concepts, key elements, types, tools, and benefits of wireframing, with a focus on practical application using **Figma**.
+
+---
 
 ## Key Elements of Wireframing
 
@@ -33,6 +35,8 @@ Indicates **where text, images, and other content** will be positioned.
 Outlines **key interactions and system behaviors**.  
 **Example:** A search box that filters results or a booking button that triggers a reservation workflow guides user interaction and expectations.
 
+---
+
 ## Types of Wireframes
 
 Wireframes can be classified into **two main types**:
@@ -51,6 +55,8 @@ Wireframes can be classified into **two main types**:
 For this project, we are using **low-fidelity wireframes**, focusing on **layout structure, navigation, content placement, and functionality**.  
 This allows us to plan the design and interactions effectively before moving to high-fidelity prototypes in Figma.
 
+---
+
 ## Wireframing Tools
 
 There are several tools available for creating wireframes, ranging from simple sketching apps to advanced digital platforms. Some popular wireframing tools include:  
@@ -68,6 +74,8 @@ Figma is particularly useful for wireframing because:
 - **Version Control:** Automatically saves changes, making it easy to track revisions.  
 
 Figma streamlines the process from wireframe to high-fidelity prototype, ensuring designs are accurate, functional, and user-friendly.
+
+---
 
 ## Benefits of Wireframing in Software Development
 
@@ -91,6 +99,8 @@ Wireframes act as a **blueprint for developers**, providing clear guidance on pl
 
 ### 6. Supports Iterative Improvement
 Wireframes can be **easily modified** to test alternative layouts and flows, encouraging experimentation and continuous improvement before moving to high-fidelity prototypes.
+
+---
 
 ## Wireframing in Practice
 
